@@ -1,0 +1,65 @@
+{
+  "bannerimgs": [{
+      "src": "../../static/img/banner1.jpg",
+      "href": "https://www.baidu.com"
+    },
+    {
+      "src": "../../static/img/banner2.jpg",
+      "href": "http://1000phone.com"
+    },
+    {
+      "src": "../../static/img/banner1.jpg",
+      "href": "http://www.jingdong.com"
+    },
+    {
+      "src": "../../static/img/banner2.jpg",
+      "href": "http://www.jingdong.com"
+    }
+  ],
+  "shoplist": [
+    {
+      "shopphoto": "001001",
+      "name": "乐友孕婴童",
+      "img1": "../../static/img/get1.jpg",
+      "img2": "../../static/img/get2.jpg",
+      "p1": "乐友浦发二维码满200减30",
+      "p2": "浦发银行",
+      "p3": "剩余名额100%"
+    },
+    {
+      "shopphoto": "001002",
+      "name": "瑞幸咖啡",
+      "img1": "../../static/img/get3.jpg",
+      "img2": "../../static/img/get4.jpg",
+      "p1": "银联引用卡10元购27元瑞幸咖啡饮品卷",
+      "p2": "中国银联",
+      "p3": "剩余名额85%",
+      "img3": "../../static/img/get4.jpg",
+      "p4": "银联引用卡10元购27元瑞幸咖啡饮品卷",
+      "p5": "中国银联",
+      "p6": "剩余名额85%"
+    },
+    {
+      "shopphoto": "001002",
+      "name": "瑞幸咖啡",
+      "img1": "../../static/img/get3.jpg",
+      "img2": "../../static/img/get4.jpg",
+      "p1": "银联引用卡10元购27元瑞幸咖啡饮品卷",
+      "p2": "中国银联",
+      "p3": "剩余名额85%",
+      "img3": "../../static/img/get4.jpg",
+      "p4": "银联引用卡10元购27元瑞幸咖啡饮品卷",
+      "p5": "中国银联",
+      "p6": "剩余名额85%"
+    },
+    {
+      "shopphoto": "001001",
+      "name": "乐友孕婴童",
+      "img1": "../../static/img/get1.jpg",
+      "img2": "../../static/img/get2.jpg",
+      "p1": "乐友浦发二维码满200减30",
+      "p2": "浦发银行",
+      "p3": "剩余名额100%"
+    }
+  ]
+}
