@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-11-08 19:53:40
- * @LastEditTime: 2019-11-09 11:52:26
+ * @LastEditTime: 2019-11-15 23:54:54
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\tabbar\src\App.vue
@@ -48,4 +48,12 @@ export default {
 
 <style>
 @import "./assets/css/base.css";
+a{
+  text-decoration: none;
+  color: black;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
 </style>

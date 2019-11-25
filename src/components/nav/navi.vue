@@ -1,0 +1,61 @@
+<!--
+ * @Author: your name
+ * @Date: 2019-11-08 20:29:24
+ * @LastEditTime: 2019-11-13 18:01:56
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \vue\tabbar\src\components\tabbar\tabBar.vue
+ -->
+<template>
+    <div class="nav">
+        <p class="navi_city">西安市</p>
+        <input class="navi_search" type="text" placeholder="品牌，门店，商品，应用" @click="searchdpagedss">
+        <i class="el-icon-search" id="navi_ss"></i>
+        <i class="el-icon-sunset" id="navi_aa"></i>
+    </div>
+</template>
+
+<script>
+export default {
+  name: 'navi',
+  data() {
+    return {
+    }
+  },
+  methods:{
+    searchdpagedss(){
+      this.$router.push('searchdpage/')
+    }
+  }
+}
+</script>
+
+<style>
+    .navi_city{
+      text-indent: .1rem;
+      color: white;
+      font-size: 16px;
+    }
+    .nav{
+      display: flex;
+      align-items: center;
+      height: 60px;
+      justify-content: space-between;
+    }
+    .navi_search{
+      width: 230px;
+      height: 35px;
+      border-radius: 5px;
+      border: 1px solid #fff;
+      outline: none;
+      text-indent: 40px;
+    }
+    #navi_ss{
+      position: absolute;
+      left:.9rem;
+    }
+    #navi_aa{
+      margin-right: .1rem;
+      color: white;
+    }
+</style>

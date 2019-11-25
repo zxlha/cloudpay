@@ -1,21 +1,28 @@
 <!--
  * @Author: your name
- * @Date: 2019-11-08 20:29:24
- * @LastEditTime: 2019-11-09 10:45:24
+ * @Date: 2019-11-04 17:31:06
+ * @LastEditTime: 2019-11-12 21:22:47
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \vue\tabbar\src\components\tabbar\tabBar.vue
+ * @FilePath: \第三阶段d:\wordspace\myfile\src\App.vue
  -->
 <template>
-<h2>我的</h2>
+  <div id="app">
+     <h2>贾平</h2>
+  </div>
 </template>
 
 <script>
-export default {
-  name: 'my'
-}
+  export default {
+    name:'register',
+    data(){
+        return{
+        }
+    },
+    components:{
+    }
+  }
 </script>
 
 <style>
-
 </style>
